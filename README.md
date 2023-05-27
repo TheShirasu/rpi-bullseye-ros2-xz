@@ -35,4 +35,4 @@ $ xz -v -T4 data.tar
 $ ar cr ros-iron-desktop-0.3.2_20230525_arm64_xz.deb debian-binary control.tar.xz data.tar.xz
 ```
 
-reference(japanese)-> [RaspberryPi OSではじめるROS2  Chapter 04 ROS2の環境構築 by Ar-Ray-code](https://note.com/ryonakano/n/n2809a750be28#9ef9d095-434b-4039-8a12-03870db1fe29)
+reference(japanese)-> [.debファイルをカスタマイズして、GitHubでPPAをホストして、Debianにインストールする方法（その2: .debファイルのカスタマイズ）By Ryo Nakano](https://note.com/ryonakano/n/n2809a750be28#9ef9d095-434b-4039-8a12-03870db1fe29)
